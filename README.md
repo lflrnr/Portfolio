@@ -13,7 +13,7 @@ Skills: Python, Pandas, Numpy, Matplotlib, Seaborn, Networkx and Pyvis
 
 ## Project 2 - Rohingya and Hope
 
-Exploring Hope In The Rohingya Survey 2019<br/>
+Exploring Hope in The Rohingya Survey 2019 with ML Algorithms<br/>
 http://xchange.org/reports/TheRohingyaSurvey2019.html<br/>
 https://microdata.unhcr.org/index.php/catalog/434/study-description<br/>
 https://data.humdata.org/dataset/the-rohingya-survey-2019-march-april-2019
