@@ -13,9 +13,9 @@ Skills: Python, Pandas, Numpy, Matplotlib, Seaborn, Networkx and Pyvis
 
 ## Project 2 - Rohingya and Hope
 
-Exploring Hope In The Rohingya Survey 2019
-http://xchange.org/reports/TheRohingyaSurvey2019.html
-https://microdata.unhcr.org/index.php/catalog/434/study-description
+Exploring Hope In The Rohingya Survey 2019<br/>
+http://xchange.org/reports/TheRohingyaSurvey2019.html<br/>
+https://microdata.unhcr.org/index.php/catalog/434/study-description<br/>
 https://data.humdata.org/dataset/the-rohingya-survey-2019-march-april-2019
 
 Xchange conducted a survey of of the perceptions of new adult arrivals to Rohingya refugee camps in Cox's Bazaar, Bangladesh after the August 2017 military operations in Rakhine State, Myanmar. This analysis will explore with ML algorithms if there are any features that could predict the level of hope that is expressed in the target column at the very end of the survey. The data is from 2019 and was downloaded on 2021-12-06 in .xlsx format from the third hyperlink above.
