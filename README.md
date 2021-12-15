@@ -4,7 +4,7 @@ Projects showcasing Python centric data analysis and data science skills.
 
 ## Project 1 - Rohingya Humanitarian Operations
 
-Rohingya Refugees in Cox's Bazar, Bangladesh - Exploring and Visualizing Data
+Rohingya Refugees in Cox's Bazar, Bangladesh - Exploring and Visualizing Data<br/>
 https://data.humdata.org/dataset/iscg-4w-influx-cox-s-bazar-bangladesh
 
 The Inter Sector Coordination Group (ISCG) is an umbrella entity of partners and organizations coordinating the provision of services to Rohingya refugees and host communities in the Cox's Bazar area of Bangladesh. Each month, the ISCG collects and publishes data on activities for the affected communities and areas. The data below is for for the month of July 2021 and was downloaded on 2021-09-28 in .xlsx format. The goal is to use Python libraries to explore real world data, generate descriptive statistics and visuals. For such a large and complex dataset, it seems that much effort went into cleaning the data which greatly aided with this portfolio project.
