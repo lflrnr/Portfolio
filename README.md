@@ -1,5 +1,5 @@
 # Portfolio
-Projects showcasing Python centric data analysis and data science skills.
+Projects showcasing Python centric data science skills.
 
 
 ## Project 1 - Rohingya Humanitarian Operations
