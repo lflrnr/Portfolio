@@ -28,11 +28,11 @@ Skills: Python; Pandas; Numpy; Matplotlib; Seaborn; Data Munging; Feature Engine
 
 This project is currently underway and will be posted upon completion.
 
-The initial goals for this project are to conduct analyses of sentiments and trending topics of Rohingya refugees in Bangladesh. Twitter granted my developer account elevated access to the Twitter API on 2021-12-20. If elevated access allows for filtering Tweets by geolocation, I will attempt to bound my analyses to refugee camps and potentially to surrounding areas. Alternatively, I may use key hashtag terms like #Rohingya. Scrapted Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob or Vader Sentiment: https://github.com/cjhutto/vaderSentiment) and Natural Language Processing libraries (e.g. NLTK: https://www.nltk.org/). Currently, elevated access only allows searching for the past 7 days of Tweets.
+The initial goal for this project is to conduct analyses of sentiments and trending topics of Rohingya refugees in Bangladesh. Twitter granted my developer account elevated access to the Twitter API on 2021-12-20. If elevated access allows for filtering Tweets by geolocation, I will attempt to bound my analyses to the refugee camps and potentially to surrounding areas. Alternatively, I may use key hashtag terms like #Rohingya. Scrapted Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob or Vader Sentiment: https://github.com/cjhutto/vaderSentiment) and Natural Language Processing libraries (e.g. NLTK: https://www.nltk.org/). Currently, elevated access only allows searching for the past 7 days of Tweets.
 
 Initial questions to explore: What are the current overall sentiments in the Rohingya refugee camps in Bangladesh? Are they positive or negative or neutral? What are the currently most frequently mentioned keywords or hashtags? 
 Potential future questions to explore: What are the overall sentiments regarding biometric technologies (e.g. fingerprinting, iris scanning, ID cards etc)? How have they varied over time?
 
 https://developer.twitter.com/en/docs/twitter-api/tutorials<br/>
 
-Skills: Python; Twitter API; Tweepy, Pandas; Matplotlib; Seaborn; Data Munging; Feature Engineering.
+Skills: Python; Twitter API; Tweepy; Pandas; Vader; NLTK; Matplotlib; Seaborn; Data Munging; Feature Engineering.
