@@ -1,5 +1,5 @@
 # Portfolio
-The purpose of these projects are to showcase Python centric data science skills.  Projects 1 through 3 will focus on the Rohingya in the refugee camps in Bangladesh. I was inspired to look into this dire topic by my partner, Sifat Reazi, who is a PhD student at the University of California, Irvine. She has provided significant input as to the research questions through her domain knowledge of the subject. The results and analysis are mine with the important caveat being that I am an uninformed outsider.
+The purpose of these projects are to showcase Python centric data science skills.  Projects 1 through 3 will focus on the Rohingya in the refugee camps in Bangladesh. I was inspired to look into this dire topic by my partner, Sifat Reazi, who is a PhD student at the University of California, Irvine. She has provided significant input as to the research questions through her domain knowledge of the subject. The results and analysis are mine with the important caveat being that I am an uninformed outsider and so should not be used to inform any policies.
 
 
 ## Project 1 - Rohingya Humanitarian Operations
@@ -23,3 +23,16 @@ Xchange conducted a survey of the perceptions of new adult arrivals to Rohingya 
 The scikit-learn machine algorithms that are utilized (sklearn calls are in parenthesis): <br/>Support Vector Classifier (SVC) <br/>K-Nearest Neighbors Classifier (KNeighborsClassifier) <br/>Logistic Regression (LogisticRegression) - did not work <br/>Naive Bayes Classifier (MultinomialNB) <br/>Decision Tree Classifier (DecisionTreeClassifier) - implemented with default parameters as well as pruned leaf nodes, max depth and entropy <br/>Random Forest Classifier (RandomForestClassifier) <br/>Ada Boost Classifier (AdaBoostClassifier) <br/>Gradient Boosting Classifier (GradientBoostingClassifier)
 
 Skills: Python; Pandas; Numpy; Matplotlib; Seaborn; Data Munging; Feature Engineering; Machine Learning Algorithms, Grid Search & Cross Validation, and Model Performance Evaluation.
+
+## Project 3 - Rohingya and Twitter Data
+
+This project is currently underway and will be posted upon completion.
+
+The initial goals for this project are to conduct analyses of sentiments and trending topics of Rohingya refugees in Bangladesh. Twitter granted my developer account elevated access to the Twitter API on 2021-12-20. If elevated access allows for filtering Tweets by geolocation, I will attempt to bound my analyses to refugee camps and potentially to surrounding areas. Alternatively, I may use key hashtag terms like #Rohingya. Scrapted Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob or Vader Sentiment: https://github.com/cjhutto/vaderSentiment) and Natural Language Processing libraries (e.g. NLTK: https://www.nltk.org/). Currently, elevated access only allows searching for the past 7 days of Tweets.
+
+Initial questions to explore: What are the current overall sentiments in the Rohingya refugee camps in Bangladesh? Are they positive or negative or neutral? What are the currently most frequently mentioned keywords or hashtags? 
+Potential future questions to explore: What are the overall sentiments regarding biometric technologies (e.g. fingerprinting, iris scanning, ID cards etc)? How have they varied over time?
+
+https://developer.twitter.com/en/docs/twitter-api/tutorials<br/>
+
+Skills: Python; Twitter API; Tweepy, Pandas; Matplotlib; Seaborn; Data Munging; Feature Engineering.
