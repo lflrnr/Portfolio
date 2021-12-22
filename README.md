@@ -1,5 +1,6 @@
 # Portfolio
-The purpose of these projects is to showcase Python centric data science skills.  Projects 1 through 3 will focus on the Rohingya in the refugee camps in Bangladesh. I was inspired to look into this dire topic by my partner, Sifat Reazi, who is a PhD student at the University of California, Irvine. She has provided significant input as to the research questions through her domain knowledge of the subject. The results and analysis are mine with the important caveat being that I am an uninformed outsider and so should not be used to inform any policies.
+The purpose of these projects is to showcase Python centric data science skills.  Projects 1 through 3 will focus on the Rohingya in the refugee camps in Bangladesh. I was inspired to look into this dire topic by my partner, Sifat Reazi, who is a PhD student at the University of California, Irvine. She provided significant input as to the research questions based on her domain knowledge of the subject. 
+Note: The analysis and results should not be used to inform any policies.
 
 
 ## Project 1 - Rohingya Humanitarian Operations
