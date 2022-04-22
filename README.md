@@ -27,7 +27,7 @@ Skills: Python; Pandas; Numpy; Matplotlib; Seaborn; Data Munging; Feature Engine
 
 ## Project 3 - Rohingya and Summary Statistics
 
-Project Goal: Visualize simple summary stastics from the main dataset of humanitarian operational activities in the Rohingya refugee camps in Cox's Bazaar, Bangladesh, focusing on practicing the use of SQLite.
+Project Goal: Visualize simple summary statistics from the main dataset of humanitarian operational activities in the Rohingya refugee camps in Cox's Bazaar, Bangladesh, focusing on practicing the use of SQLite.
 
 Data Source: https://data.humdata.org/dataset/iscg-4w-influx-cox-s-bazar-bangladesh<br>
 Data date: Data from August 2020 with code R56 in the file name
