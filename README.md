@@ -25,7 +25,16 @@ The scikit-learn machine algorithms that are utilized (sklearn calls are in pare
 
 Skills: Python; Pandas; Numpy; Matplotlib; Seaborn; Data Munging; Feature Engineering; Machine Learning Algorithms, Grid Search & Cross Validation, and Model Performance Evaluation.
 
-## Project 3 - Rohingya and Twitter Data
+## Project 3 - Rohingya and Summary Statistics
+
+Project Goal: Visualize simple summary stastics from the main dataset of humanitarian operational activities in the Rohingya refugee camps in Cox's Bazaar, Bangladesh, focusing on practicing the use of SQLite.
+
+Data Source: https://data.humdata.org/dataset/iscg-4w-influx-cox-s-bazar-bangladesh
+Data date: Data from August 2020 with code R56 in the file name
+
+Skills: Pandas, Numpy, SQLite, Matplotlib
+
+## Project 4 - Rohingya and Twitter Data
 
 This project is currently underway and will be posted upon completion.
 
