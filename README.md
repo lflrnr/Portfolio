@@ -2,7 +2,7 @@
 The purpose of these projects is to showcase Python centric data science skills.  Projects 1 through 3 will focus on the Rohingya in the refugee camps in Bangladesh. I was inspired to look into this dire topic by my partner, Sifat Reazi, who is a PhD student at the University of California, Irvine. She provided significant input as to the research questions based on her domain knowledge of the subject. 
 <br/>Note: The analysis and results should not be used to inform any policies.
 
-## Project 1 - Global Warming and Average Monthly Temperatures for Two U.S. Counties over 120 years
+## Project 1 - Global Warming for Two U.S. Counties over 120 years
 
 This project was completed for Coursera's University of Michigan Applied Data Science with Python course. The goal was to plot and compare average monthly temperatures for the past 120 years for Orange County, California and Washtenaw County, Michigan and assess if there is indeed a global warming trend experienced at the micro county level. Eyeballing the visual, it is clear that a warming trend is occurring for both counties when looking over this period as compared to the overall average for each county.
 
