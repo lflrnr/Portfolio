@@ -2,8 +2,13 @@
 The purpose of these projects is to showcase Python centric data science skills.  Projects 1 through 3 will focus on the Rohingya in the refugee camps in Bangladesh. I was inspired to look into this dire topic by my partner, Sifat Reazi, who is a PhD student at the University of California, Irvine. She provided significant input as to the research questions based on her domain knowledge of the subject. 
 <br/>Note: The analysis and results should not be used to inform any policies.
 
+## Project 1 - Global Warming and Average Monthly Temperatures for Orange County, California and Washtenaw County, Michigan over 120 years
 
-## Project 1 - Rohingya Humanitarian Operations
+This project was completed for Coursera's University of Michigan Applied Data Science with Python course. The goal was to plot and compare average monthly temperatures for the past 120 years for Orange County, California and Washtenaw County, Michigan and assess if there is indeed a global warming trend experienced at the micro county level. Eyeballing the visual, it is clear that a warming trend is occurring for both counties when looking over this period as compared to the overall average for each county.
+
+Skills: Python, Pandas, Matplotlib and Seaborn
+
+## Project 2 - Rohingya Humanitarian Operations
 
 Rohingya Refugees in Cox's Bazar, Bangladesh - Exploring and Visualizing Data<br/>
 https://data.humdata.org/dataset/iscg-4w-influx-cox-s-bazar-bangladesh
@@ -12,7 +17,7 @@ The Inter Sector Coordination Group (ISCG) is an umbrella entity of partners and
 
 Skills: Python, Pandas, Numpy, Matplotlib, Seaborn, Networkx and Pyvis
 
-## Project 2 - Rohingya and Hope
+## Project 3 - Rohingya and Hope
 
 Exploring Hope in The Rohingya Survey 2019 with ML Algorithms<br/>
 http://xchange.org/reports/TheRohingyaSurvey2019.html<br/>
@@ -25,7 +30,7 @@ The scikit-learn machine algorithms that are utilized (sklearn calls are in pare
 
 Skills: Python; Pandas; Numpy; Matplotlib; Seaborn; Data Munging; Feature Engineering; Machine Learning Algorithms, Grid Search & Cross Validation, and Model Performance Evaluation.
 
-## Project 3 - Rohingya and Summary Statistics
+## Project 4 - Rohingya and Summary Statistics
 
 Project Goal: Visualize simple summary statistics from the main dataset of humanitarian operational activities in the Rohingya refugee camps in Cox's Bazaar, Bangladesh, focusing on practicing the use of SQLite.
 
@@ -34,7 +39,7 @@ Data date: Data from August 2020 with code R56 in the file name
 
 Skills: Pandas, Numpy, SQLite, Matplotlib
 
-## Project 4 - Rohingya and Twitter Data
+## Project 5 - Rohingya and Twitter Data
 
 This project is currently underway and will be posted upon completion.
 
