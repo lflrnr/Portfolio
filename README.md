@@ -41,7 +41,7 @@ Skills: Pandas, Numpy, SQLite, Matplotlib
 
 ## Project 5 - Rohingya and Twitter Data
 
-This project is currently underway and will be posted upon completion.
+This project is currently underway, AWS setup constructed, and preliminary code has been posted
 
 The initial goal for this project is to conduct analyses of sentiments and trending topics of Rohingya refugees in Bangladesh. Twitter granted my developer account elevated access to the Twitter API on 2021-12-20. If elevated access allows for filtering Tweets by geolocation, I will attempt to bound my analyses to the refugee camps and potentially to surrounding areas. Alternatively, I may use key hashtag terms like #Rohingya. Scraped Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob or Vader Sentiment: https://github.com/cjhutto/vaderSentiment) and Natural Language Processing libraries (e.g. NLTK: https://www.nltk.org/). Currently, elevated access only allows searching for the past 7 days of Tweets.
 
