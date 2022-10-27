@@ -27,7 +27,7 @@ This project is currently underway, AWS setup constructed, and preliminary code 
 
 The initial goal for this project is to conduct economic sentiment analyses in the US using Twitter data. Twitter granted my developer account elevated access to the Twitter API.  Scraped Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob or Vader Sentiment: https://github.com/cjhutto/vaderSentiment) and Natural Language Processing libraries (e.g. NLTK: https://www.nltk.org/). Currently, elevated access only allows searching for the past 7 days of Tweets.
 
-Initial questions to explore: What are the current overall sentiments of the economy? Are they positive or negative or neutral? How has it varied over time? Is there a correlation between economic sentiment and perhaps certain economic metrics such as stock market performance.
+Initial questions to explore: What are the current overall sentiments of the economy? Are they positive or negative or neutral? How has it varied over time? Is there a correlation between economic sentiment and perhaps certain economic metrics such as stock market performance?
 
 https://developer.twitter.com/en/docs/twitter-api/tutorials<br/>
 
