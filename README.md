@@ -8,16 +8,7 @@ This project was completed for Coursera's University of Michigan Applied Data Sc
 
 Skills: Python, Pandas, Matplotlib and Seaborn
 
-## Project 2 - Rohingya Humanitarian Operations
-
-Rohingya Refugees in Cox's Bazar, Bangladesh - Exploring and Visualizing Data<br/>
-https://data.humdata.org/dataset/iscg-4w-influx-cox-s-bazar-bangladesh
-
-The Inter Sector Coordination Group (ISCG) is an umbrella entity of partners and organizations coordinating the provision of services to Rohingya refugees and host communities in the Cox's Bazar area of Bangladesh. Each month, the ISCG collects and publishes data on activities for the affected communities and areas. The data below is for for the month of July 2021 and was downloaded on 2021-09-28 in .xlsx format. The goal is to use Python libraries to explore real world data, generate descriptive statistics and visuals. For such a large and complex dataset, it seems that much effort went into cleaning the data which greatly aided with this portfolio project.
-
-Skills: Python, Pandas, Numpy, Matplotlib, Seaborn, Networkx and Pyvis
-
-## Project 3 - Rohingya and Hope
+## Project 2 - Rohingya and Hope
 
 Exploring Hope in The Rohingya Survey 2019 with ML Algorithms<br/>
 http://xchange.org/reports/TheRohingyaSurvey2019.html<br/>
@@ -30,23 +21,13 @@ The scikit-learn machine algorithms that are utilized (sklearn calls are in pare
 
 Skills: Python; Pandas; Numpy; Matplotlib; Seaborn; Data Munging; Feature Engineering; Machine Learning Algorithms, Grid Search & Cross Validation, and Model Performance Evaluation.
 
-## Project 4 - Rohingya and Summary Statistics
-
-Project Goal: Visualize simple summary statistics from the main dataset of humanitarian operational activities in the Rohingya refugee camps in Cox's Bazaar, Bangladesh, focusing on practicing the use of SQLite.
-
-Data Source: https://data.humdata.org/dataset/iscg-4w-influx-cox-s-bazar-bangladesh<br>
-Data date: Data from August 2020 with code R56 in the file name
-
-Skills: Pandas, Numpy, SQLite, Matplotlib
-
-## Project 5 - Rohingya and Twitter Data
+## Project 3 - Twitter Sentiment Analysis of the Economy
 
 This project is currently underway, AWS setup constructed, and preliminary code has been posted
 
-The initial goal for this project is to conduct analyses of sentiments and trending topics of Rohingya refugees in Bangladesh. Twitter granted my developer account elevated access to the Twitter API on 2021-12-20. If elevated access allows for filtering Tweets by geolocation, I will attempt to bound my analyses to the refugee camps and potentially to surrounding areas. Alternatively, I may use key hashtag terms like #Rohingya. Scraped Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob or Vader Sentiment: https://github.com/cjhutto/vaderSentiment) and Natural Language Processing libraries (e.g. NLTK: https://www.nltk.org/). Currently, elevated access only allows searching for the past 7 days of Tweets.
+The initial goal for this project is to conduct sentiment analyses in the US of the economy using Twitter data. Twitter granted my developer account elevated access to the Twitter API.  Scraped Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob or Vader Sentiment: https://github.com/cjhutto/vaderSentiment) and Natural Language Processing libraries (e.g. NLTK: https://www.nltk.org/). Currently, elevated access only allows searching for the past 7 days of Tweets.
 
-Initial questions to explore: What are the current overall sentiments in the Rohingya refugee camps in Bangladesh? Are they positive or negative or neutral? What are the currently most frequently mentioned keywords or hashtags? 
-Potential future questions to explore: What are the overall sentiments regarding biometric technologies (e.g. fingerprinting, iris scanning, ID cards etc)? How have they varied over time?
+Initial questions to explore: What are the current overall sentiments of the economy? Are they positive or negative or neutral? How has it varied over time? Is there a correlation between economic sentiment and perhaps certain economic metrics such as stock market performance.
 
 https://developer.twitter.com/en/docs/twitter-api/tutorials<br/>
 
