@@ -4,7 +4,7 @@ The purpose of these projects is to showcase Python centric data science and dat
 
 ## Project 3 - Economic Sentiment Analysis with Twitter’s API
 
-This project is currently underway, AWS setup constructed, and preliminary code has been posted
+This project is currently underway with AWS setup constructed using RDS PostgreSQL and Lambda and preliminary code has been posted.
 
 The initial goal for this project is to conduct economic sentiment analyses in the US using Twitter data. Twitter granted my developer account elevated access to the Twitter API.  Scraped Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob or Vader Sentiment: https://github.com/cjhutto/vaderSentiment) and Natural Language Processing libraries (e.g. NLTK: https://www.nltk.org/). Currently, elevated access only allows searching for the past 7 days of Tweets.
 
