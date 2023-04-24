@@ -13,10 +13,7 @@ Skills: Python; Twitter and FRED APIs; Tweepy; Pandas; Plotly; Data Munging; Fea
 
 ## Project 2 - Rohingya and Hope
 
-Exploring Hope in The Rohingya Survey 2019 with ML Algorithms<br/>
-http://xchange.org/reports/TheRohingyaSurvey2019.html<br/>
-https://microdata.unhcr.org/index.php/catalog/434/study-description<br/>
-https://data.humdata.org/dataset/the-rohingya-survey-2019-march-april-2019
+Exploring Hope in The Rohingya Survey 2019 with ML Algorithms
 
 Xchange conducted a survey of the perceptions of new adult arrivals to Rohingya refugee camps in Cox's Bazaar, Bangladesh after the August 2017 military operations in Rakhine State, Myanmar. The goals for this analysis were to utilize Python libraries to explore real world data, generate descriptive statistics and visuals, and to use machine learning (ML) algorithms to assess which survey features were strong predictors of hope expresesed at the very end of the survey. The data were from 2019 and were downloaded on 2021-12-06 in .xlsx format from the third hyperlink above. The majority of the data were categorical with both ordinal and non-ordinal features.
 
