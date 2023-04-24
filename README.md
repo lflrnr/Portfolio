@@ -9,8 +9,6 @@ The initial goal for this project is to conduct economic sentiment analyses in t
 
 Initial questions to explore: What are the current overall sentiments of the economy? Are they positive or negative or neutral? How has it varied over time? Is there a correlation between economic sentiment and perhaps certain economic metrics such as stock market performance?  Once enough data is collected, this correlation and potential machine learning models using scikit-learn will be explored further.  A Plotly graph displaying results will be hosted on AWS EC2.
 
-https://developer.twitter.com/en/docs/twitter-api/tutorials<br/>
-
 Skills: Python; Twitter and FRED APIs; Tweepy; Pandas; Plotly; Data Munging; Feature Engineering.
 
 ## Project 2 - Rohingya and Hope
