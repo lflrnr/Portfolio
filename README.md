@@ -1,18 +1,17 @@
 # Portfolio
-The purpose of these projects is to showcase Python centric data science and data analysis skills.  Projects 2 focused on the Rohingya in the refugee camps in Bangladesh. I was inspired to look into this dire topic by my partner, Sifat Reazi, who is a PhD student at the University of California, Irvine. She provided significant input as to the research questions based on her domain knowledge of the subject. 
-<br/>Note: The analysis and results should not be used to inform any policies.
+The purpose of these bespoke projects is to showcase my growing data skills.  The analysis and results should not be used to inform any policies.
 
 ## Project 3 - Economic Sentiment Analysis with Twitter’s API
 
-This project is currently underway with AWS setup constructed using RDS PostgreSQL and Lambda and preliminary code has been posted.
+This project is currently underway with AWS setup constructed using RDS PostgreSQL and EC2 and preliminary code has been posted.
 
-The initial goal for this project is to conduct economic sentiment analyses in the US using Twitter data. Twitter granted my developer account elevated access to the Twitter API.  Scraped Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob or Vader Sentiment: https://github.com/cjhutto/vaderSentiment) and Natural Language Processing libraries (e.g. NLTK: https://www.nltk.org/). Currently, elevated access only allows searching for the past 7 days of Tweets.
+The initial goal for this project is to conduct economic sentiment analyses in the US using Twitter data. Scraped Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob). Currently, elevated access only allows searching for the past 7 days of Tweets so data will be cleaned and stored on AWS RDS using PostgreSQL.
 
-Initial questions to explore: What are the current overall sentiments of the economy? Are they positive or negative or neutral? How has it varied over time? Is there a correlation between economic sentiment and perhaps certain economic metrics such as stock market performance?
+Initial questions to explore: What are the current overall sentiments of the economy? Are they positive or negative or neutral? How has it varied over time? Is there a correlation between economic sentiment and perhaps certain economic metrics such as stock market performance?  Once enough data is collected, this correlation and potential machine learning models using scikit-learn will be explored further.  A Plotly graph displaying results will be hosted on AWS EC2.
 
 https://developer.twitter.com/en/docs/twitter-api/tutorials<br/>
 
-Skills: Python; Twitter API; Tweepy; Pandas; Vader; NLTK; Matplotlib; Seaborn; Data Munging; Feature Engineering.
+Skills: Python; Twitter and FRED APIs; Tweepy; Pandas; Plotly; Data Munging; Feature Engineering.
 
 ## Project 2 - Rohingya and Hope
 
