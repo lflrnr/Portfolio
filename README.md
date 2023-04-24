@@ -7,7 +7,7 @@ This project is currently underway with AWS setup constructed using RDS PostgreS
 
 The initial goal for this project is to conduct economic sentiment analyses in the US using Twitter data. Scraped Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob). Currently, elevated access only allows searching for the past 7 days of Tweets so data will be cleaned and stored on AWS RDS using PostgreSQL.
 
-Initial questions to explore: What are the current overall sentiments of the economy? Are they positive or negative or neutral? How has it varied over time? Is there a correlation between economic sentiment and perhaps certain economic metrics such as stock market performance?  Once enough data is collected, this correlation and potential machine learning models using scikit-learn will be explored further.  A Plotly graph displaying results will be hosted on AWS EC2.
+Questions to explore: What are the current overall sentiments of the economy? Are they positive or negative or neutral? How has it varied over time? Is there a correlation between economic sentiment and perhaps certain economic metrics such as stock market performance?  Once enough data is collected, this correlation and potential machine learning models using scikit-learn will be explored further.  A Plotly graph displaying results will be hosted on AWS EC2.
 
 Skills: Python; Twitter and FRED APIs; Tweepy; Pandas; Plotly; Automation; Data Munging; Feature Engineering.
 
