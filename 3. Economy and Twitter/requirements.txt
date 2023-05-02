@@ -1,0 +1,7 @@
+psycopg2-binary~=2.8.0
+numpy==1.20.3
+pandas==1.3.4
+tweepy==4.13.0
+emoji==2.2.0
+textblob==0.17.1
+fredpy==3.2.8
