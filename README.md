@@ -1,15 +1,19 @@
 # Portfolio
 The purpose of these bespoke projects is to showcase my growing data skills.  The analysis and results should not be used to inform any policies.
 
-## Project 3 - Economic Sentiment Analysis with Twitter’s API
+## Project 3 - Consumer Confidence and the U.S. Economy
+### This project's website is running live on an EC2 instance and can be seen at https://cloud-econ.com
 
-This project is currently underway with AWS setup constructed using RDS PostgreSQL and EC2 and preliminary code has been posted.
+The project's goal is to visually compare consumer confidence of the US economy with respect to important economic metrics from the Federal Reserve's FRED API using Dash and Plotly. Furthermore, the project showcases my knowledge of data, deployment and cloud tools.
 
-The initial goal for this project is to conduct economic sentiment analyses in the US using Twitter data. Scraped Tweets will be fed into Sentiment Analysis libraries (e.g. TextBlob). Currently, elevated access only allows searching for the past 7 days of Tweets so data will be cleaned and stored on AWS RDS using PostgreSQL.
+Initial questions to explore:
+What is the current consumer confidence of the economy?
+How has it varied over time?
+Is there a correlation between consumer confidence and economic metrics like stock market performance?
 
-Questions to explore: What are the current overall sentiments of the economy? Are they positive or negative or neutral? How has it varied over time? Is there a correlation between economic sentiment and perhaps certain economic metrics such as stock market performance?  Once enough data is collected, this correlation and potential machine learning models using scikit-learn will be explored further.  A Plotly graph displaying results will be hosted on AWS EC2.
+Once enough data are collected, they will be fed into machine learning models to best fit a predictive model and determine if any economic indicators have correlations with consumer confidence as the target variable.
 
-Skills: Python; Twitter and FRED APIs; Tweepy; Pandas; Plotly; Automation; Data Munging; Feature Engineering.
+Skills: Python; FRED API; Pandas; Docker; Github Actions; PostgreSQL; AWS - RDS, S3, ECR, ECS, EC2, Lambda, SNS, Cloudwatch, IAM, EventBridge; Plotly; Dash; pgAdmin; YAML; Cloudflare; Data Munging; Automation; Continuous Delivery
 
 ## Project 2 - Rohingya and Hope
 
