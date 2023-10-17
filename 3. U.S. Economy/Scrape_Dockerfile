@@ -1,0 +1,12 @@
+# Will Amazon Linux 2023 be lighter than Debian Linux? Yes!
+FROM amazonlinux:latest
+
+COPY . /app
+
+WORKDIR /app
+
+RUN chmod +x /app/entrypoint.sh
+CMD ["sh", "/app/entrypoint.sh"]
+
+# CMD ["/bin/bash","-c","source /app/env.source"]
+# CMD ["python3","daily_update.py"]
