@@ -2,7 +2,7 @@
 The purpose of these bespoke projects is to showcase my growing data skills.  The analysis and results should not be used to inform any policies.
 
 ## Project 3 - Consumer Confidence and the U.S. Economy
-### This project's website is running live on an AWS EC2 instance and can be found at:<br>https://cloud-econ.com
+### This project's website is running live on an AWS EC2 instance and can be found at:<br>www.cloud-econ.com
 
 The project's goal is to visually compare consumer confidence of the US economy with respect to important economic metrics from the Federal Reserve's FRED API using Dash and Plotly. Furthermore, the project showcases my knowledge of data, deployment and cloud tools.
 
